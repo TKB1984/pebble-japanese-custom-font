@@ -1,0 +1,1683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ja_JP\n"
+"Name: 日本語\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Disable"
+msgstr "無効"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "Alarm Detail"
+msgstr "アラーム詳細"
+
+msgid "New Alarm"
+msgstr "アラーム新規"
+
+msgid "Edit Alarm"
+msgstr "アラーム編集"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Set Alarm"
+msgstr "アラーム設定"
+
+msgid "Snooze Delay"
+msgstr "スヌーズ"
+
+msgid "%d hour%s%s"
+msgstr "%d時間%s%s"
+
+msgid "%d minutes"
+msgstr "%d 分"
+
+msgid "<%s>\nApp Crashed!"
+msgstr "<%s>\nアプリがクラッシュ！"
+
+msgid "Press Any Button..."
+msgstr "ボタンを押してください..."
+
+msgid "Battery Critical"
+msgstr "電池わずか"
+
+msgid "Updating..."
+msgstr "更新中..."
+
+msgid "FW Update Progress"
+msgstr "FW更新中"
+
+msgid "Install Pebble App"
+msgstr "アプリをインストール"
+
+msgid "Firmware Update"
+msgstr "FW更新"
+
+msgid "Cancel Update?"
+msgstr "更新中止しますか？"
+
+msgid "Cancel\nUpdate?"
+msgstr "更新中止\nしますか？"
+
+msgid "Getting Started"
+msgstr "はじめに"
+
+msgid "Ready for Update"
+msgstr "更新準備完了"
+
+msgid "Hole"
+msgstr "ホール"
+
+msgid "Par"
+msgstr "パー"
+
+msgid "Golf"
+msgstr "ゴルフ"
+
+msgid "No Bluetooth Connection"
+msgstr "Bluetooth接続なし"
+
+msgid "No Music Found"
+msgstr "曲がみつかりません"
+
+msgid "Unsupported platform"
+msgstr "非対応機種"
+
+msgid "Selected"
+msgstr "選択"
+
+msgid "No notifications."
+msgstr "通知なし"
+
+msgid "Panic"
+msgstr "パニック"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Date & Time"
+msgstr "日付と時刻"
+
+msgid "Display"
+msgstr "画面設定"
+
+msgid "About"
+msgstr "情報"
+
+msgid "Shut Down"
+msgstr "電源OFF"
+
+msgid "Factory Reset"
+msgstr "初期化"
+
+msgid "Now Discoverable"
+msgstr "探索可能"
+
+msgid "Airplane mode still toggling..."
+msgstr "機内モード切替中..."
+
+msgid "Pairing Instructions"
+msgstr "接続方法"
+
+msgid "%u Paired Phone%c"
+msgstr "%u台と接続済み"
+
+msgid "<Unknown>"
+msgstr "<不明>"
+
+msgid "Airplane Mode"
+msgstr "機内モード"
+
+msgid "On phone, go to Bluetooth settings and select Pebble."
+msgstr "スマートフォンのBluetooth設定からPebbleを選択してください。"
+
+msgid "No LE"
+msgstr "非LE"
+
+msgid "LE Only"
+msgstr "LEのみ"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Forget"
+msgstr "接続解除"
+
+msgid "Backlight"
+msgstr "バックライト"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Ambient Controlled"
+msgstr "照度調整中"
+
+msgid "Shake to light"
+msgstr "振って点灯"
+
+msgid "Motion"
+msgstr "モーション"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Reset to factory settings?"
+msgstr "Pebbleを初期化しますか？"
+
+msgid "Do Not Disturb"
+msgstr "おやすみモード"
+
+msgid "Texts Only"
+msgstr "通知のみ"
+
+msgid "Phone Calls Only"
+msgstr "着信のみ"
+
+msgid "Apps Only"
+msgstr "アプリのみ"
+
+msgid "Notifications Off"
+msgstr "通知OFF"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Set Schedule"
+msgstr "時間設定"
+
+msgid "Font Size"
+msgstr "文字サイズ"
+
+msgid "Large"
+msgstr "大きめ"
+
+msgid "Small"
+msgstr "小さめ"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Vibration"
+msgstr "バイブレーション"
+
+msgid "Notifications On"
+msgstr "通知ON"
+
+msgid "Disabled (Plugged In)"
+msgstr "無効（充電中）"
+
+msgid "Notifications Font Size"
+msgstr "通知 文字サイズ"
+
+msgid "Set Time"
+msgstr "時刻設定"
+
+msgid "Set Date"
+msgstr "くりかえし"
+
+msgid "Time Display"
+msgstr "時間表示"
+
+msgid "You just updated your Pebble to version %s!"
+msgstr "あなたのPebbleはバージョン%sにアップデートされました！"
+
+msgid "Your Pebble is up to date!"
+msgstr "あなたのPebbleは最新です。"
+
+msgid "FW Update Success"
+msgstr "FWアップデート成功"
+
+msgid "Welcome!"
+msgstr "ようこそ！"
+
+msgid "Sliding Text Watch"
+msgstr "動く文字表示"
+
+msgid "Text Watch"
+msgstr "文字表示"
+
+msgid "Classic Analog"
+msgstr "クラシック"
+
+msgid "Simplicity"
+msgstr "シンプル"
+
+msgid "Not connected"
+msgstr "接続なし"
+
+msgid "Alarm"
+msgstr "アラーム"
+
+msgid "Ping Received"
+msgstr "Pingを受信"
+
+msgid "Kill"
+msgstr "切断"
+
+msgid "Launch"
+msgstr "開始"
+
+msgid "Your Pebble just resetted. Please report this using the 'Support' link in the Pebble phone app."
+msgstr "Pebbleがリセットされました。Pebbleアプリの「Support」から報告をお願いします。"
+
+msgid "Crashed"
+msgstr "クラッシュ"
+
+msgid "Just now"
+msgstr "たった今"
+
+msgid "A minute ago"
+msgstr "1分前"
+
+msgid "%lu minutes ago"
+msgstr "%lu分前"
+
+msgid "An hour ago"
+msgstr "1時間前"
+
+msgid "%lu hours ago"
+msgstr "%lu時間前"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Call Ended"
+msgstr "通話終了"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "No Caller ID"
+msgstr "非通知"
+
+msgid "Declining Call"
+msgstr "着信拒否"
+
+msgid "Canceling Call"
+msgstr "発信キャンセル中"
+
+msgid "Disconnected"
+msgstr "切断"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Incoming Call"
+msgstr "着信"
+
+msgid "Calling..."
+msgstr "呼び出し中..."
+
+msgid "Missed Call"
+msgstr "不在着信"
+
+msgid "BT Address"
+msgstr "BTアドレス"
+
+msgid "Firmware"
+msgstr "FWバージョン"
+
+msgid "Recovery"
+msgstr "リカバリ"
+
+msgid "Bootloader"
+msgstr "ローダー"
+
+msgid "Hardware"
+msgstr "モデル名"
+
+msgid "Serial"
+msgstr "シリアル番号"
+
+msgid "Uptime"
+msgstr "稼働時間"
+
+msgid "Legal"
+msgstr "法的情報"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Sun"
+msgstr "(日)"
+
+msgid "Mon"
+msgstr "(月)"
+
+msgid "Tue"
+msgstr "(火)"
+
+msgid "Wed"
+msgstr "(水)"
+
+msgid "Thu"
+msgstr "(木)"
+
+msgid "Fri"
+msgstr "(金)"
+
+msgid "Sat"
+msgstr "(土)"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Enabling…"
+msgstr "有効化中..."
+
+msgid "Disabling…"
+msgstr "無効化中..."
+
+msgid "Your Pebble just reset. Please report this using the 'Support' link in the Pebble phone app."
+msgstr "Pebbleがリセットされました。Pebbleアプリの”Support”から報告をお願いします。"
+
+msgid "%d hour%s%s "
+msgstr "%d時間%s%s "
+
+msgid "%d minute%s"
+msgstr "%d 分"
+
+msgid "Battery Low"
+msgstr "電池残りわずか"
+
+msgid "%d%% remaining"
+msgstr "残り%d%%"
+
+msgid "Clear History"
+msgstr "履歴消去"
+
+msgid "Clear all notification history?"
+msgstr "通知の履歴を消去しますか？"
+
+msgid "No Phone Connection"
+msgstr "スマートフォン接続なし"
+
+msgid "Activity"
+msgstr "活動量"
+
+msgid "Activity Tracker"
+msgstr "活動量計"
+
+msgid "No Activity Trackers are installed"
+msgstr "活動量計がインストールされていません"
+
+msgid "Running"
+msgstr "ランニング"
+
+msgid "Stop BG Activity"
+msgstr "バックグラウンド実行停止"
+
+msgid "Up Button"
+msgstr "Upボタン"
+
+msgid "Down Button"
+msgstr "Downボタン"
+
+msgid "Select An App"
+msgstr "アプリ選択"
+
+msgid "Set App"
+msgstr "アプリ設定"
+
+msgid "Shortcut not set"
+msgstr "ショートカット設定なし"
+
+msgid "Would you like to set the UP shortcut?"
+msgstr "Upショートカットを設定しますか？"
+
+msgid "Would you like to set the DOWN shortcut?"
+msgstr "Downショートカットを設定しますか？"
+
+msgid "UP shortcut disabled"
+msgstr "Upショートカット無効"
+
+msgid "DOWN shortcut disabled"
+msgstr "Downショートカット無効"
+
+msgid "This shortcut can be enabled from the settings menu"
+msgstr "このショートカットは設定メニューから"
+
+msgid "UP shortcut set"
+msgstr "Upショートカット設定"
+
+msgid "DOWN shortcut set"
+msgstr "Downショートカット設定"
+
+msgid "UP"
+msgstr "Up"
+
+msgid "DOWN"
+msgstr "Down"
+
+msgid "Long press %s from any watchface to open %s"
+msgstr "ウォッチフェイスで%s長押しで%sを実行します。"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Certification"
+msgstr "認証"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "NOTIFICATIONS"
+msgstr "通知"
+
+msgid "ACTIVITY"
+msgstr "活動量"
+
+msgid "QUICK LAUNCH"
+msgstr "クイック起動"
+
+msgid "DATE & TIME"
+msgstr "日付と時刻"
+
+msgid "DISPLAY"
+msgstr "画面設定"
+
+msgid "SYSTEM"
+msgstr "システム"
+
+msgid "Connection"
+msgstr "接続"
+
+msgid "Mute"
+msgstr "ミュート"
+
+msgid "Off"
+msgstr "OFF"
+
+msgid "On"
+msgstr "ON"
+
+msgid "Allow Phone Calls Only"
+msgstr "電話のみ許可"
+
+msgid "Low"
+msgstr "暗い"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "High"
+msgstr "明るい"
+
+msgid "Text Size"
+msgstr "文字サイズ"
+
+msgid "Larger"
+msgstr "大"
+
+msgid "Default"
+msgstr "標準"
+
+msgid "Smaller"
+msgstr "小"
+
+msgid "Change Schedule"
+msgstr "スケジュール変更"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "End"
+msgstr "終了"
+
+msgid " MIN. TO"
+msgstr "分で"
+
+msgid "%d%% Battery"
+msgstr "電池残量 %d%%"
+
+msgid "%dH"
+msgstr "%d時"
+
+msgid "%dM"
+msgstr "%d 分"
+
+msgid "%lu H AGO"
+msgstr "%lu時間前"
+
+msgid "%lu MIN AGO"
+msgstr "%lu分前"
+
+msgid "%lu minute ago"
+msgstr "%lu分前"
+
+msgid "%u Steps"
+msgstr "%u歩"
+
+msgid "%uH %uM Sleep"
+msgstr "%u時間%u分の睡眠"
+
+msgid "1 hour"
+msgstr "1時間"
+
+msgid "10 minutes"
+msgstr "10分"
+
+msgid "15 minutes"
+msgstr "15分"
+
+msgid "3 Seconds"
+msgstr "3秒"
+
+msgid "30 minutes"
+msgstr "30分"
+
+msgid "5 Seconds"
+msgstr "5秒"
+
+msgid "5 minutes"
+msgstr "5分"
+
+msgid "8 Seconds"
+msgstr "8秒"
+
+msgid "A good night's sleep goes a long way! Try to get more hours tonight."
+msgstr "ぐっすり眠ることはとても大事です！今夜はもっとゆっくり休んでみましょう。"
+
+msgid "A good night's sleep makes for a more productive day. How are you doing?"
+msgstr "ぐっすり眠れば、ますます充実した一日に。調子はいかが？"
+
+msgid "About the same"
+msgstr "ほぼ同じ"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Activity Summary"
+msgstr "活動の概要"
+
+msgid "Add contacts in\nmobile app"
+msgstr "アプリで番号を追加して下さい"
+
+msgid "Alarm Deleted"
+msgstr "アラーム削除"
+
+msgid "Alarm dismissed"
+msgstr "アラーム無効"
+
+msgid "All Day"
+msgstr "終日"
+
+msgid "All day"
+msgstr "終日"
+
+msgid "Allow All Notifications"
+msgstr "全通知を許可"
+
+msgid "Allow Phone Calls"
+msgstr "着信を許可"
+
+msgid "Ambient Sensor"
+msgstr "照度センサー"
+
+msgid "Are you enjoying Pebble Health and Insights?"
+msgstr "ヘルスケアとその情報を活用していますか？"
+
+msgid "BACKGROUND APP"
+msgstr "バックグランドAPP"
+
+msgid "Background App"
+msgstr "バックグランドAPP"
+
+msgid "Basic Alarm"
+msgstr "基本アラーム"
+
+msgid "Blinding"
+msgstr "まぶしい"
+
+msgid "CONSISTENT!"
+msgstr "いいペース！"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Calendar Aware"
+msgstr "カレンダー連動"
+
+msgid "Calendar Aware enables Quiet Time automatically during calendar events."
+msgstr "カレンダーの予定の最中は自動的におやすみモードON"
+
+msgid "Calendar Muted"
+msgstr "カレンダーミュート"
+
+msgid "Calendar Unmuted"
+msgstr "カレンダーミュート解除"
+
+msgid "Call Declined"
+msgstr "いまは電話に出られません"
+
+msgid "Call back"
+msgstr "かけ直す"
+
+msgid "Call me"
+msgstr "電話して"
+
+msgid "Call you later"
+msgstr "あとでかけ直します"
+
+msgid "Called!"
+msgstr "着信！"
+
+msgid "Calories"
+msgstr "カロリー"
+
+msgid "Can't connect. Relaunch Pebble Time app on phone."
+msgstr "接続できませんでした。スマートフォンのPebble Timeアプリを再起動してください。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Canceled"
+msgstr "キャンセル完了"
+
+msgid "Canned messages"
+msgstr "定型文"
+
+msgid "Change Days"
+msgstr "曜日変更"
+
+msgid "Change Time"
+msgstr "時間変更"
+
+msgid "Charging"
+msgstr "充電中"
+
+msgid "Check bluetooth connection"
+msgstr "Bluetooth接続を確認してください"
+
+msgid "Clear All"
+msgstr "すべて削除"
+
+msgid "Clear history?"
+msgstr "履歴削除？"
+
+msgid "Compass"
+msgstr "コンパス"
+
+msgid "Confirm Alignment"
+msgstr "位置調整確認"
+
+msgid "Congratulations - you're having a super active day! Activity makes you more focused and creative. How do you feel?"
+msgstr "よく頑張りました！超アクティブな1日でしたね！運動することで集中力が増して創造的にもなります。気分はどうですか？"
+
+msgid "Convert to Basic Alarm"
+msgstr "基本アラームに変更"
+
+msgid "Convert to Smart Alarm"
+msgstr "スマートアラームに変更"
+
+msgid "Custom"
+msgstr "曜日指定"
+
+msgid "Deep Sleep"
+msgstr "深い眠り"
+
+msgid "Deleted"
+msgstr "削除しました"
+
+msgid "Dictation is not available."
+msgstr "音声入力は利用できません。"
+
+msgid "Didn’t that walk feel good? You walked for %d minutes and burned %d calories. You’re a walking machine!"
+msgstr "%d分歩いて%dカロリーを消費しました。たくさん歩きましたね！"
+
+msgid "Disabling..."
+msgstr "無効化中…"
+
+msgid "Dismiss"
+msgstr "無視"
+
+msgid "Dismiss All"
+msgstr "すべて削除"
+
+msgid "Dismissed"
+msgstr "無視しました"
+
+msgid "Distance"
+msgstr "距離"
+
+msgid "Do you feel more energetic, sharper or optimistic? Being active helps!"
+msgstr "よく運動すると、エネルギーに満ち溢れ、神経が研ぎ澄まされて、楽観的になります。"
+
+msgid "Do you want to shut down?"
+msgstr "シャットダウンしますか?"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "EVERY DAY"
+msgstr "毎日"
+
+msgid "Emoji"
+msgstr "絵文字"
+
+msgid "Enabling..."
+msgstr "有効化中…"
+
+msgid "End Quiet Time"
+msgstr "おやすみモードOFF"
+
+msgid "End Quiet Time?"
+msgstr "おやすみモードをOFFにしますか？"
+
+msgid "Error occurred. Try again."
+msgstr "エラー発生。再度試してください。"
+
+msgid "Every Day"
+msgstr "毎日"
+
+msgid "FILTER"
+msgstr "フィルター"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Fridays"
+msgstr "毎週金曜日"
+
+msgid "Fully Charged"
+msgstr "満充電"
+
+msgid "GREAT DAY TODAY"
+msgstr "今日はすばらしい日"
+
+msgid "Good job! You walked %d steps today–do it again tomorrow."
+msgstr "Good Job! 今日は%d歩、歩きました。明日もがんばって。"
+
+msgid "Good morning! You slept for %dH %dM. Consistency is key; keep doing what you're doing 😃."
+msgstr "Good morning! %d時間%d分眠てました。決まった睡眠リズムが大事です。この調子でキープしていきましょう😃"
+
+msgid "Good mornin’. You slept for %dH %dM. Way to keep it consistent! Every day begins with sleep. Keep it strong 😃."
+msgstr "Good morning! %d時間%d分眠てました。\n毎日は眠りからはじまります。キープし続けましょう😃"
+
+msgid "Groggy? You slept for %dH %dM which is %d%% below your average. Sleep is important for everything you do-try getting more shut eye tonight!"
+msgstr "ぼーっとする？%d時間%d分眠てました。平均を%d%%下回ってます。なにをするにも睡眠は大事。今夜はもっと眠れますように！"
+
+msgid "Health"
+msgstr "ヘルスケア"
+
+msgid "Health what?"
+msgstr "健康ってなに？"
+
+msgid "Hey lightning bolt, you just ran for %d minutes at a %d minutes per %s pace. You keep this up and there'll be nothing you can’t do!"
+msgstr "よお韋駄天！%d分走って、%d分／%sペースだ。このペースを維持してれば、できない事は何もない。"
+
+msgid "Hey sleepy head. You slept for %dH %dM which is %d%% below your average. Try to get more tonight!"
+msgstr "どうもおねむさん。%d時間%d分眠てました。平均を%d%%下回ってます。今夜はもっとたくさん寝ましょう！"
+
+msgid "Hey you. You walked %d steps today which is %d%% below your average. Try to be more active tomorrow, you can do it!"
+msgstr "今日は%d歩、歩きました。平均を%d%%下回ってます。明日はもっと動きましょう。あなたなら出来る！"
+
+msgid "Horizontal Alignment"
+msgstr "水平位置調整"
+
+msgid "How are you feeling? Have you noticed extra focus, better mood or extra energy? You have been sleeping great this week! Keep it up!"
+msgstr "集中力あがってる？調子いい？元気みなぎってる？何か感じるでしょう？今週いちばんの睡眠でしたよ。続けましょう！"
+
+msgid "I feel fabulous!"
+msgstr "いい気分！"
+
+msgid "I feel great!"
+msgstr "もう最高！"
+
+msgid "I'm still tired"
+msgstr "疲れが残ってる"
+
+msgid "IN %lu H"
+msgstr "%lu時間中"
+
+msgid "IN %lu MIN"
+msgstr "%lu 分中"
+
+msgid "INTENSITY"
+msgstr "バックライト"
+
+msgid "In %lu hour"
+msgstr "あと%lu時間"
+
+msgid "In %lu hours"
+msgstr "あと%lu時間"
+
+msgid "In %lu minute"
+msgstr "あと%lu 分"
+
+msgid "In %lu minutes"
+msgstr "あと%lu 分"
+
+msgid "Incoming Calls"
+msgstr "着信"
+
+msgid "Intensity"
+msgstr "バックライト"
+
+msgid "Interruptions"
+msgstr "中断"
+
+msgid "It's great that you're keeping a consistent sleep routine!"
+msgstr "毎日安定した睡眠をとっていますね。とても良いことです。"
+
+msgid "It's great!!"
+msgstr "すごい！"
+
+msgid "Killer job! You've walked %d steps today which is %d%% above your average. Try to do it again tomorrow, champ."
+msgstr "すばらしい！今日は%d歩、歩きました。平均を%d%%上回ってます。明日もまたこの調子でがんばりましょうね。"
+
+msgid "Last updated"
+msgstr "最終更新"
+
+msgid "Listening"
+msgstr "聞き取り中"
+
+msgid "Long press %s from watchface to open %s."
+msgstr "ウォッチフェイスで%s長押しで%sを起動"
+
+msgid "Manual"
+msgstr "手動"
+
+msgid "Meh..."
+msgstr "まあいっか…"
+
+msgid "Missed that. Try again."
+msgstr "失敗。もう一度。"
+
+msgid "Mondays"
+msgstr "毎週月曜日"
+
+msgid "More Info"
+msgstr "詳細"
+
+msgid "Moscow"
+msgstr "モスクワ"
+
+msgid "Motion Enabled"
+msgstr "モーション有効"
+
+msgid "Mute All Notifications"
+msgstr "全通知を無視"
+
+msgid "Muted"
+msgstr "ミュート"
+
+msgid "NOT VERY ACTIVE"
+msgstr "アクティブじゃない"
+
+msgid "New Smart Alarm"
+msgstr "新規スマートアラーム"
+
+msgid "Nice moves! You've walked %d steps today which is %d%% above your average. Give yourself a pat on the back and crush it again tomorrow."
+msgstr "いい調子！今日は%d歩も歩きました。平均を%d%%上回ってます。自分をほめて、明日も大成功を収めましょう。"
+
+msgid "No background apps"
+msgstr "バックグランドAPPなし"
+
+msgid "No events"
+msgstr "予定なし"
+
+msgid "No internet connection"
+msgstr "ネット接続なし"
+
+msgid "No notifications"
+msgstr "通知なし"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Not feeling it"
+msgstr "感じない"
+
+msgid "Now"
+msgstr "今"
+
+msgid "Nudge Nudge"
+msgstr "つんつん"
+
+msgid "ONCE"
+msgstr "一回だけ"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Once"
+msgstr "一回だけ"
+
+msgid "Open Pin"
+msgstr "Pinを開く"
+
+msgid "Open on phone"
+msgstr "電話で開く"
+
+msgid "Opened\non phone"
+msgstr "電話で\n開いた"
+
+msgid "Pair?"
+msgstr "ペアリング？"
+
+msgid "Pebble Health tracks your steps and sleep... check it out!"
+msgstr "ヘルスケアが歩数と睡眠を記録しています。見てね！"
+
+msgid "Perform factory reset?"
+msgstr "初期化しますか？"
+
+msgid "Powered 'til %s"
+msgstr "%sに電池が切れます"
+
+msgid "Press and hold the Back button from the watchface or a notification to turn Quiet Time on or off."
+msgstr "おやすみモードのON/OFF切替はウォッチフェイスで戻るボタン長押しor各通知から"
+
+msgid "Pulse"
+msgstr "波動"
+
+msgid "QUIET TIME"
+msgstr "おやすみモード"
+
+msgid "Quickly dismiss all notifications by holding the Select button for 2 seconds from any incoming notification."
+msgstr "通知画面でSelectボタンを2秒間押し続けるとすべての通知をすばやく削除できます。"
+
+msgid "Quiet All Notifications"
+msgstr "全通知を無視"
+
+msgid "Quiet Time"
+msgstr "おやすみモード"
+
+msgid "Quiet Time\nEnded"
+msgstr "おやすみモード\nOFF"
+
+msgid "Quiet Time\nStarted"
+msgstr "おやすみモード\nON"
+
+msgid "Recurring"
+msgstr "繰り返し"
+
+msgid "Refreshed? You slept for %dH %dM which is %d%% above your average. Go tackle your day 😃."
+msgstr "リフレッシュできた？%d時間%d分寝てました。平均を%d%%上回ってます。今日も良い一日を😃"
+
+msgid "Remember to also forget your Pebble's Bluetooth connection from your phone."
+msgstr "スマートフォン側でもPebbleのBluetoothペアリング解除をしてください。"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Removed"
+msgstr "削除しました"
+
+msgid "Resetting..."
+msgstr "リセット中..."
+
+msgid "Resting is fine, but try to recover and step it up tomorrow!"
+msgstr "のんびり休憩するのもいいことです。でも、明日はいつもの調子を取り戻しましょう！"
+
+msgid "START PLAYBACK\nON YOUR PHONE"
+msgstr "スマートフォンで\n再生開始してください"
+
+msgid "Saturdays"
+msgstr "毎週土曜日"
+
+msgid "Screen Alignment"
+msgstr "画面位置調整"
+
+msgid "Select Contact"
+msgstr "連絡先選択"
+
+msgid "Select to confirm alignment changes"
+msgstr "Selectボタンで\n位置調整確定"
+
+msgid "Send Text"
+msgstr "SMS送信"
+
+msgid "Sent"
+msgstr "送信完了"
+
+msgid "Set the DOWN shortcut?"
+msgstr "Downショートカットを設定しますか？"
+
+msgid "Set the UP shortcut?"
+msgstr "Upショートカットを設定しますか？"
+
+msgid "Sleep"
+msgstr "睡眠時間"
+
+msgid "Sleep Summary"
+msgstr "睡眠の概要"
+
+msgid "Smart Alarm"
+msgstr "スマートAlarm"
+
+msgid "Snooze delay set to %d minutes"
+msgstr "スヌーズ間隔を%d分に設定"
+
+msgid "Snooze for %d minutes"
+msgstr "%d 分スヌーズ"
+
+msgid "Stand-By Mode"
+msgstr "待機モード"
+
+msgid "Standard - High"
+msgstr "通常・強"
+
+msgid "Standard - Low"
+msgstr "通常・弱"
+
+msgid "Standard - Medium"
+msgstr "通常・中"
+
+msgid "Start Quiet Time"
+msgstr "おやすみモードON"
+
+msgid "Start Quiet Time?"
+msgstr "おやすみモードONにしますか？"
+
+msgid "Steps Now"
+msgstr "歩数"
+
+msgid "Stopwatch"
+msgstr "ストップウォッチ"
+
+msgid "Stuck inside today? You walked %d steps which is %d%% below your average. Being active makes you feel amaaaazing–try to get back on track tomorrow."
+msgstr "今日は缶詰でした？今日は%d歩、歩きました。平均を%d%%下回ってます。アクティブに動くと気分がよいですよ。明日は再び軌道に乗れるようにしてみましょう。"
+
+msgid "Sundays"
+msgstr "毎週日曜日"
+
+msgid "System"
+msgstr "システム"
+
+msgid "TEXT SIZE"
+msgstr "文字サイズ"
+
+msgid "TIMEOUT"
+msgstr "タイムアウト"
+
+msgid "TIMEZONE"
+msgstr "タイムゾーン"
+
+msgid "TOMORROW"
+msgstr "明日"
+
+msgid "TYPICAL %d"
+msgstr "いつもの%d"
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Thanks!"
+msgstr "ありがとう！"
+
+msgid "This app requires Pebble Health to work. Enable Health in the Pebble mobile app to continue."
+msgstr "このアプリを使うにはPebbleヘルスケアが必要です。Pebbleのスマートフォンアプリでヘルスケアを有効にしてください。"
+
+msgid "This feature requires Pebble Health to work. Enable Health in the Pebble mobile app to continue."
+msgstr "この機能を使うにはPebbleヘルスケアが必要です。Pebbleのスマートフォンアプリでヘルスケアを有効にしてください。"
+
+msgid "Thursdays"
+msgstr "毎週木曜日"
+
+msgid "Time Active"
+msgstr "活動時間"
+
+msgid "Time Format"
+msgstr "時間形式"
+
+msgid "Timeout"
+msgstr "タイムアウト"
+
+msgid "Timer"
+msgstr "タイマー"
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Tomorrow"
+msgstr "明日"
+
+msgid "Tuesdays"
+msgstr "毎週火曜日"
+
+msgid "Turn on usage logs to use voice.\n\nOn your phone, go to Settings in the Pebble Time app."
+msgstr "ボイスを使用するには「Usage logs」を有効にしてください。\n\nスマートフォンのPebble Timeアプリの「Settings」で設定できます。"
+
+msgid "Up/Down to adjust\nSelect to proceed"
+msgstr "Up/Downで調整\nSelectで決定"
+
+msgid "Update Complete"
+msgstr "更新完了"
+
+msgid "Update Failed"
+msgstr "更新失敗"
+
+msgid "VIBRATION"
+msgstr "バイブレーション"
+
+msgid "VIBRATIONS"
+msgstr "振動パターン"
+
+msgid "Vertical Alignment"
+msgstr "垂直位置調整"
+
+msgid "Vibrations"
+msgstr "振動パターン"
+
+msgid "Voice"
+msgstr "ボイス"
+
+msgid "WEEKDAYS"
+msgstr "平日"
+
+msgid "WEEKENDS"
+msgstr "週末"
+
+msgid "Wake up"
+msgstr "起床"
+
+msgid "Wake up interval"
+msgstr "起きる間隔"
+
+msgid "Weather"
+msgstr "天気"
+
+msgid "Weather Muted"
+msgstr "天気をミュート"
+
+msgid "Weather Unmuted"
+msgstr "天気のミュート解除"
+
+msgid "Wednesdays"
+msgstr "毎週水曜日"
+
+msgid "Watchfaces"
+msgstr "ウォッチフェイス"
+
+msgid "Weekdays"
+msgstr "平日"
+
+msgid "Weekends"
+msgstr "週末"
+
+msgid "Yesterday"
+msgstr "昨日"
+
+msgid "Yesterday, %R"
+msgstr "昨日、%R"
+
+msgid "Yesterday, %l:%M %p"
+msgstr "昨日、%l:%M %p"
+
+msgid "You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your average. Keep it up."
+msgstr "たくさん寝ましたね！%d時間%d分眠てました。平均を%d%%上回ってます。その調子です。"
+
+msgid "You had a good night! Feel the energy 😃"
+msgstr "よく眠りましたね！元気いっぱい☺"
+
+msgid "You walked %d steps today; keep it up! Being active is the key to feeling like a million bucks. Try to beat your average tomorrow."
+msgstr "今日は%d歩、歩きました－その調子！活動的なのは値千金。明日も平均以上を目指しましょう。"
+
+msgid "You're all set"
+msgstr "操作完了"
+
+msgid "You're being consistent and that's important, keep at it!"
+msgstr "着々と進んでいます。それが重要です。頑張って!"
+
+msgid "the day after tomorrow"
+msgstr "明後日"
+
+msgid "the foreseeable future"
+msgstr "近い将来"
+
+msgid "this afternoon"
+msgstr "今日の日中"
+
+msgid "this evening"
+msgstr "今日の夕方"
+
+msgid "this morning"
+msgstr "今朝"
+
+msgid "tomorrow afternoon"
+msgstr "明日の日中"
+
+msgid "tomorrow evening"
+msgstr "明日の夕方"
+
+msgid "tomorrow morning"
+msgstr "明日の朝"
+
+msgid "tomorrow night"
+msgstr "明日の夜"
+
+msgid "tonight"
+msgstr "今夜"
+
+msgid "%.*s is not responding"
+msgstr "%.*s is not responding "
+
+msgid "%B %e"
+msgstr "%B %e日"
+
+msgid "%I:%M:%S %p"
+msgstr "%p %I:%M:%S"
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%Y年%b%e日%a %H:%M:%S"
+
+msgid "%a, %R"
+msgstr "%R %a"
+
+msgid "%a, %l:%M %p"
+msgstr "%p %I:%M %a"
+
+msgid "%b %e, %R"
+msgstr "%B %e日 %R"
+
+msgid "%b %e, %Y"
+msgstr "%Y年%b%e日"
+
+msgid "%b %e, %l:%M %p"
+msgstr "%b%e日 %p%l:%M "
+
+msgid "%d Min walk"
+msgstr "%d 分徒歩"
+
+msgid "%e"
+msgstr "%e日"
+
+msgid "%l:%M"
+msgstr "%I:%M"
+
+msgid "%l:%M %p"
+msgstr "%p %I:%M"
+
+msgid "%l:%M%p"
+msgstr "%p%I:%M"
+
+msgid "%m/%d/%y"
+msgstr "%y/%m/%d"
+
+msgid "%s of sleep"
+msgstr "%s 睡眠"
+
+msgid "%s%.*s is not responding.\n\nOpen app?"
+msgstr "%s%.*s は応答していません。\n\nアプリを起動しますか？"
+
+msgid "%u Paired Phone"
+msgstr "%u台"
+
+msgid "%u Paired Phones"
+msgstr "%u台"
+
+msgid "--°"
+msgstr "不明"
+
+msgid "ABOVE AVG"
+msgstr "平均以上"
+
+msgid "About average"
+msgstr "平均"
+
+msgid "Above avg"
+msgstr "平均以上"
+
+msgid "Aren't naps great? You knocked out for %dH %dM!"
+msgstr "盛大に居眠りしてませんでした？%d時間%d分意識不明でした。"
+
+msgid "Awesome!"
+msgstr "スゴイ！"
+
+msgid "BELOW AVG"
+msgstr "平均以下"
+
+msgid "Below avg"
+msgstr "平均以下"
+
+msgid "Bluetooth on your phone is in a high power state. Please report this using 'Support' and reboot your phone."
+msgstr "電話側のBluetooth接続が電力浪費中です。Supportを利用して報告の上、電話を再起動して下さい。"
+
+msgid "CUSTOM"
+msgstr "カスタム"
+
+msgid "Call Accepted"
+msgstr "着信あり"
+
+msgid "Call Back"
+msgstr "折り返し電話"
+
+msgid "Calories burned"
+msgstr "消費カロリー"
+
+msgid "Core dump and reboot?"
+msgstr "コアダンプを取得して再起動しますか？"
+
+msgid "Did your Pebble reset?"
+msgstr "Pebbleをリセットしますか？"
+
+msgid "Disable Airplane Mode to connect."
+msgstr "接続するには機内モードを解除してください。"
+
+msgid "Enjoying the great outdoors? You walked for %d minutes and burned %d calories. Way to keep moving!"
+msgstr "野外活動を楽しんでますか？%d分歩いて%dカロリー消費しました。続けましょう！"
+
+msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
+msgstr "調子イイ？%d時間%d分寝てました。誰もあなたを止められない👊"
+
+msgid "Feelin' hot? Cause you're on 🔥! You just ran for %d minutes at a %d:%02d per %s pace."
+msgstr "燃えてる？絶好調ですからね！%d分を%d:%02d / %sペースで走りました。"
+
+msgid "Feeling tired? You only slept for %dH %dM which is %d%% below your average. Sleep is vital for all your great ideas – how 'bout getting more tonight?"
+msgstr "お疲れ？%d時間%d分しか寝てません。平均を%d%%下回ってます。睡眠は活力源－今夜はもっと寝ませんか？"
+
+msgid "Goooood morning! You slept for %dH %dM which is %d%% below your average. Go crush your day and then get back in bed 😉"
+msgstr "おはよう！%d時間%d分寝てました。平均を%d%%下回ってます。今日の予定を壊して寝に帰るべし😉"
+
+msgid "Having a sitting day? We can tell 😃 –you only walked %d steps today. It's not your most active, but get pumped to beat your average tomorrow!"
+msgstr "座りっぱなしの一日でしたね。今日は%d歩しか歩きませんでした。明日は平均以上狙ってがんばりましょう！"
+
+msgid "Hey bud. You only walked %d steps today but everyone deserves a rest. Good news is the sky's the limit!"
+msgstr "あらら、今日は%d歩しか歩きませんでした。まあ誰にでも休息は必要です。でも「為せば成る」ですよ!"
+
+msgid "Hey lightning bolt, you just ran for %d minutes at a %d:%02d per %s pace. You keep this up and there'll be nothing you can’t do!"
+msgstr "電光石火の走り！%d分を%d:%02d / %sペースで走りました。このまま続けて、あなたに不可能は無い！"
+
+msgid "Hey rockstar 🎤 You've walked %d steps today which is %d%% above your average. Nothing can stop you!"
+msgstr "まるでロックスター🎤 今日は%d歩、歩きました。平均を%d%%上回ってます。誰もあなたを止められない！"
+
+msgid "Hey speedster, you just ran for %d minutes at a %d:%02d per %s pace. Keep showing us what you're made of 👊"
+msgstr "韋駄天！%d分を%d:%02d / %sペースで走りました。あなたの根性を見せ続けて👊"
+
+msgid "I didn't nap!?"
+msgstr "居眠りしてない？"
+
+msgid "In the battle of you vs. you, YOU are the winner. You walked %d steps today which is %d%% above your average. Mic drop."
+msgstr "自分との戦いに勝ちました！今日は%d歩、歩きました。平均を%d%%上回ってます。完璧！"
+
+msgid "It's a new day! You slept for %dH %dM which is %d%% below your average. It's not your best, but there's always tonight."
+msgstr "新しい朝です！%d時間%d分寝てました。平均を%d%%下回ってます。あなたの実力はこんなもんじゃない、今夜も夜はやってきます。"
+
+msgid "Jackhammer"
+msgstr "削岩機"
+
+msgid "Keep it up!"
+msgstr "その調子！"
+
+msgid "Let us wake you in your lightest sleep so you're fully refreshed! Smart Alarm wakes you up to 30min before your alarm."
+msgstr "SmartAlarmはアラームの最大30分前に起こします。最も浅い睡眠時に起こしますので爽快です。"
+
+msgid "Limit reached."
+msgstr "リミット到達"
+
+msgid "Looks like you didn't get enough sleep, pal 😟 You only slept for %dH %dM which is %d%% below your average. We know stuff happens. Take another crack at it tonight."
+msgstr "寝不足なんじゃないですか、相棒😟 %d時間%d分しか寝てません。平均を%d%%下回ってます。まあ、よくある事です。今夜はぐっすり寝るとしましょう。"
+
+msgid "MI"
+msgstr "マイル"
+
+msgid "Mmmm...what a night. You slept for %dH %dM which is %d%% above your average. That's gotta feel good!"
+msgstr "う〜ん、ぐっすりな夜。%d時間%d分寝てました。平均を%d%%上回ってます。いい感じ！"
+
+msgid "Mute %s"
+msgstr "%sを通知しない"
+
+msgid "Mute Always"
+msgstr "常時無効"
+
+msgid "Mute Weekdays"
+msgstr "平日無効"
+
+msgid "Mute Weekends"
+msgstr "週末無効"
+
+msgid "NAP "
+msgstr "居眠り "
+
+msgid "NOW"
+msgstr "今"
+
+msgid "Nap"
+msgstr "居眠り"
+
+msgid "Nap Time"
+msgstr "居眠り時間"
+
+msgid "New and improved Health Graphs are now on your phone! Find them in the Pebble app under the health tab."
+msgstr "新しい改良されたHealthグラフは電話側にあります。Pebbleアプリ内のHealthタブを探しましょう。"
+
+msgid "No internet\nconnection"
+msgstr "インターネット接続なし"
+
+msgid "No location information available. To see weather, add locations in your Pebble mobile app."
+msgstr "位置情報が無効です。天気を表示するにはPebbleアプリに位置情報を許可してください。"
+
+msgid "Not having the best day? We get it. You walked %d steps today. Don't fret; you can get back on track in no time 😃"
+msgstr "今日は%d歩、歩きました。今日は調子悪い？悩まないで、すぐ軌道に乗りますよ。"
+
+msgid "ON AVG"
+msgstr "平均"
+
+msgid "Of napping"
+msgstr "うたた寝"
+
+msgid "On avg"
+msgstr "平均"
+
+msgid "Oops!\nNo sleep data"
+msgstr "睡眠データ\nありません。"
+
+msgid "Open the Pebble app on your phone to connect."
+msgstr "接続には電話機側のPebbleアプリを開いて下さい。"
+
+msgid "Pace"
+msgstr "ペース"
+
+msgid "Reminders"
+msgstr "リマインダ"
+
+msgid "Reply with Voice"
+msgstr "音声で返信"
+
+msgid "Rise and shine! You slept for %dH %dM which is %d%% above your average. Do it again tonight, sleep master."
+msgstr "おはよ～！%d時間%d分寝てました。平均を%d%%上回ってます。今夜もね。"
+
+msgid "Run %s instead of %s as the background app?"
+msgstr "%sを（%sではなくて）バックグラウンドアプリとして動かしますか？"
+
+msgid "Run duration"
+msgstr "走行時間"
+
+msgid "SMTWTFS"
+msgstr "日月火水木金土"
+
+msgid "See details..."
+msgstr "概略を見る..."
+
+msgid "Snooze"
+msgstr "スヌーズ"
+
+msgid "Snoozed"
+msgstr "スヌーズ"
+
+msgid "Someone's on the move 👊 You walked %d steps today; keep doing what you're doing!"
+msgstr "今日は%d歩、歩きました。そのまま続けましょう！"
+
+msgid "That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% above your average. Boom shakalaka."
+msgstr "良く寝ましたね！%d時間%d分寝てました。平均を%d%%上回ってます。ハーヨイヨイ！"
+
+msgid "The core dump was created successfully. Please create a support request as usual."
+msgstr "コアダンプ取得は成功しました。サポートリクエストしてください。"
+
+msgid "This app requires a newer version of the Pebble firmware."
+msgstr "このアプリはPebbleファームウェアのアップデートが必要です"
+
+msgid "Try wearing your watch to sleep"
+msgstr "Pebbleをつけたまま寝てみましょう"
+
+msgid "Unable to connect. Your weather data may be out of date; try checking the connection on your phone."
+msgstr "気象データが古いようです。電話側のネット接続を確認して下さい。"
+
+msgid "Wake up between"
+msgstr "起床時間"
+
+msgid "Walk duration"
+msgstr "歩行時間"
+
+msgid "Wanna know more about you? Track your activity and sleep with Pebble Health."
+msgstr "もっと自分の事を知りたい？ヘルスケアで活動と睡眠を記録しましょう。"
+
+msgid "We can barely keep up! You walked %d steps today which is %d%% above your average. You're on 🔥"
+msgstr "精力的！今日は%d歩、歩きました。平均を%d%%上回ってます。素晴らしい！"
+
+msgid "While your Pebble was off wakeup events occurred for:"
+msgstr "電源Offの間に次の理由で起動しました："
+
+msgid "Wish you could get daily updates on your activity and sleep progress? You can! Check out your stats with Pebble Health."
+msgstr "毎日の活動と睡眠の状況が知りたい？出来ます！ヘルスケアで確認しましょう。"
+
+msgid "YOU NAPPED"
+msgstr "居眠りしてた"
+
+msgid "You got the moves! You walked for %d minutes and burned %d calories. We're super impressed; keep it up 😃"
+msgstr "動きましたね！%d分歩いて%dカロリー消費しました。感心感心。続けましょう😃"
+
+msgid "You keep moving, we'll keep counting! You've clocked in %d steps today. Keep it rolling, hot stuff."
+msgstr "あなたが動き続けるかぎり、わたくしPebbleは計測し続けます!今日は%d歩を記録しました。続けましょう。優秀優秀!"
+
+msgid "You like sleep, don't you? Get fun stats on your sleep and start waking up less groggy with Pebble Health."
+msgstr "寝るの好きですよね？ヘルスケアを使って眠りの見える化を楽しみましょう。そして心地良い目覚めを始めましょう。"
+
+msgid "You only slept for %dH %dM which is %d%% below your average. We know you're busy, but try getting more tonight. We believe in you 😉"
+msgstr "%d時間%d分しか寝てません。平均を%d%%下回ってます。お忙しいでしょうが今夜はもう少し寝ましょう😉 "
+
+msgid "You walked %d steps today which is %d%% below your average. But hey, everyone deserves a break. There's always tomorrow 😃"
+msgstr "今日は%d歩、歩きました。平均を%d%%下回ってます。ちょっと一服するのも良いですね。また明日頑張りましょう😃"
+
+msgid "You walked %d steps which is %d%% below your average, but don't stress. You'll crush it tomorrow 😉"
+msgstr "今日は%d歩、歩きました。平均を%d%%下回ってますが、重く考えないで。明日は上手くいきますよ😉"
+
+msgid "You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly ritual. You deserve it."
+msgstr "%d時間%d分寝ました。何だか睡眠が不安定です!夜寝る時の儀式を作りましょう。大丈夫、出来ます。"
+
+msgid "Your screen may need calibration. Calibrate it now?"
+msgstr "画面調整が必要です。すぐに調整しますか？"
+
+msgid "kilometer"
+msgstr "キロ"

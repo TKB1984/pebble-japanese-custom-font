@@ -1,16 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse, os
-import sys
 import inspect
-
-if 'PEBBLE_SDK_PATH' not in os.environ:
-    print('Please set pebble sdk path environment variable firstly!')
-    print('export PEBBLE_SDK_PATH=/path/to/PebbleSDK/')
-    sys.exit()
-
-sys.path.append(os.path.join(os.environ['PEBBLE_SDK_PATH'], 
-                'Pebble/common/tools'))
 import pbpack
 from pbpack import ResourcePack
 

@@ -2,9 +2,7 @@
 
 **Coution: This language pack is unofficial and no warranty.**
 
-Font set generated from Morisawa Inc. BIZ UDPGothic (SIL Open Font License, Version 1.1).
-
-- https://fonts.google.com/specimen/BIZ+UDPGothic/license
+Font set generated from BIZ UDPGothic (https://fonts.google.com/specimen/BIZ+UDPGothic/about) and Noto Emoji (https://fonts.google.com/specimen/Noto+Emoji/about)
 
 ## Project Structure
 
@@ -12,6 +10,8 @@ Font set generated from Morisawa Inc. BIZ UDPGothic (SIL Open Font License, Vers
 - `cps/`: Scripts and data for generating the `codepoints.json` definition.
 - `font/`: Source font files.
 - `po/`: Language translation files.
+- `custom_fonts/`: Custom font files.
+- `pbl/`: Generated language pack files.
 
 ## Codepoint Generation
 
@@ -51,32 +51,15 @@ Outputs: `custom_fonts/000`
 ## Build Example
 
 ```bash
-# set tools path
-export PEBBLE_SDK_PATH=/path/to/tools
-
-# generate font file.
-
-## 001/002 for height 14. offset is 2.
-$ python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 2 12 font/BIZUDGothic-Regular.ttf custom_fonts/001
-
-## 003/004 for height 18. offset is 4
-$ python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 4 14 font/BIZUDGothic-Regular.ttf custom_fonts/003
-
-## 005/006 for height 24. offset is 7
-$ python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 7 17 font/BIZUDGothic-Regular.ttf custom_fonts/005
-
-## 007/008 for height 28. offset is 8
-$ python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 8 20 font/BIZUDGothic-Regular.ttf custom_fonts/007
-
-# packing
-
-$ python3 tools/pbpack_tool.py pack pbl/BIZUDGothic-ja_JP.pbl custom_font/*
+build_custom_fonts.sh BizEmoji.ttf
 ```
 
 ## Reference and thanks!!
  - https://github.com/polyfusia/pebble-japanese-custom-font ( original project)
-- https://github.com/xndcn/pebble-firmware-utils
-- https://orange-factory.com/sample/utf8/code3/e3.html
+ - https://github.com/xndcn/pebble-firmware-utils
+ - https://gist.github.com/medicalwei/c9fdcd9ec19b0c363ec1
+ - https://ja.wikipedia.org/wiki/Unicode%E3%81%AEEmoji%E3%81%AE%E4%B8%80%E8%A6%A7
+ - https://orange-factory.com/dnf/utf-8.html
 
 ## Contact
  - https://x.com/wadabori

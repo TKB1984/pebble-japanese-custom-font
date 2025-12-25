@@ -2,7 +2,6 @@ import stm32_crc
 import struct
 import time
 
-
 class ResourcePack(object):
     """ Pebble resource pack file format (de)serialization tools.
 

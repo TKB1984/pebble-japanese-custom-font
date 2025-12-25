@@ -8,10 +8,8 @@ import struct
 import sys
 import itertools
 import json
-from math import ceil
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '../'))
-import generate_c_byte_array
 
 # Font
 #   FontInfo

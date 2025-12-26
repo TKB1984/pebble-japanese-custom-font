@@ -11,8 +11,8 @@ fi
 FONT_NAME=$1
 FONT_BASENAME=${FONT_NAME%.*}
 
-if [ ! -f "font/${FONT_NAME}" ]; then
-  echo "Error: Font file 'font/${FONT_NAME}' not found."
+if [ ! -f "fonts/${FONT_NAME}" ]; then
+  echo "Error: Font file 'fonts/${FONT_NAME}' not found."
   exit 1
 fi
 
@@ -20,10 +20,10 @@ fi
 mkdir -p custom_fonts
 
 # Generate fonts
-python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 2 12 font/${FONT_NAME} custom_fonts/001
-python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 4 15 font/${FONT_NAME} custom_fonts/003
-python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 7 17 font/${FONT_NAME} custom_fonts/005
-python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 8 20 font/${FONT_NAME} custom_fonts/007
+python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 2 12 fonts/${FONT_NAME} custom_fonts/001
+python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 4 15 fonts/${FONT_NAME} custom_fonts/003
+python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 7 17 fonts/${FONT_NAME} custom_fonts/005
+python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 8 20 fonts/${FONT_NAME} custom_fonts/007
 
 # Copy font binaries
 cd custom_fonts

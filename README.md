@@ -8,7 +8,7 @@ Font set generated from BIZ UDPGothic (https://fonts.google.com/specimen/BIZ+UDP
 
 - `tools/`: Font generation and packing tools.
 - `cps/`: Scripts and data for generating the `codepoints.json` definition.
-- `font/`: Source font files.
+- `fonts/`: Source font files.
 - `po/`: Language translation files.
 - `custom_fonts/`: Custom font files.
 - `pbl/`: Generated language pack files.
@@ -18,7 +18,7 @@ Font set generated from BIZ UDPGothic (https://fonts.google.com/specimen/BIZ+UDP
 git clone https://github.com/TKB1984/pebble-japanese-custom-font
 cd pebble-japanese-custom-font
 python3 -m venv pebble-font
-source pebble-font/bin/activate
+source pebble-fonts/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -55,6 +55,12 @@ Generate Menu translation file.
 msgfmt po/ja.po -o custom_fonts/000
 ```
 Outputs: `custom_fonts/000`
+
+## Merging Fonts Example
+```bash
+python3 tools/merge_fonts.py -o fonts/BizEmoji.ttf fonts/BIZUDPGothic-Regular.ttf fonts/NotoEmoji-Bold.ttf
+```
+Outputs: `fonts/BizEmoji.ttf`
 
 ## Build Example
 

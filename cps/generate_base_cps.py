@@ -1,5 +1,6 @@
 
 import json
+import os
 
 UTF8_RANGES_HEX = [
     ("0x20", "0x7F"), # 半角英数字
@@ -12,7 +13,8 @@ UTF8_RANGES_HEX = [
     ("0xEFBC81", "0xEFBE9F"), # 全角英数字、半角カナ
 ]
 
-OUTPUT_JSON = "base_cps.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_JSON = os.path.join(SCRIPT_DIR, "base_cps.json")
 
 def hex_to_codepoint(hex_str):
     # Remove 0x prefix

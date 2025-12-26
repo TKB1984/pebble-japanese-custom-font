@@ -2,8 +2,9 @@
 import json
 import os
 
-INPUT_FILE = "kanji.txt"
-OUTPUT_FILE = "kanji_cps.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE = os.path.join(SCRIPT_DIR, "kanji.txt")
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "kanji_cps.json")
 
 def main():
     if not os.path.exists(INPUT_FILE):

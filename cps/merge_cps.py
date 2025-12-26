@@ -2,10 +2,11 @@
 import json
 import os
 
-FILE_A = "base_cps.json"
-FILE_B = "kanji_cps.json"
-FILE_C = "emoji_cps.json"
-OUTPUT_FILE = "../codepoints.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+FILE_A = os.path.join(SCRIPT_DIR, "base_cps.json")
+FILE_B = os.path.join(SCRIPT_DIR, "kanji_cps.json")
+FILE_C = os.path.join(SCRIPT_DIR, "emoji_cps.json")
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "../codepoints.json")
 
 def load_json(path):
     if not os.path.exists(path):

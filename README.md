@@ -59,7 +59,7 @@ Outputs: `custom_fonts/000`
 ## Build Example
 
 ```bash
-build_custom_fonts.sh BizEmoji.ttf
+bash build_custom_fonts.sh BizEmoji.ttf
 ```
 
 ## Reference and thanks!!

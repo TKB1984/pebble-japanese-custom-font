@@ -21,7 +21,7 @@ mkdir -p custom_fonts
 
 # Generate fonts
 python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 2 12 font/${FONT_NAME} custom_fonts/001
-python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 4 14 font/${FONT_NAME} custom_fonts/003
+python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 4 15 font/${FONT_NAME} custom_fonts/003
 python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 7 17 font/${FONT_NAME} custom_fonts/005
 python3 tools/fontgen.py pfo --extended --list codepoints.json --heightoffset 8 20 font/${FONT_NAME} custom_fonts/007
 

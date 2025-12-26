@@ -59,6 +59,7 @@ build_custom_fonts.sh BizEmoji.ttf
  - https://github.com/xndcn/pebble-firmware-utils
  - https://gist.github.com/medicalwei/c9fdcd9ec19b0c363ec1
  - https://ja.wikipedia.org/wiki/Unicode%E3%81%AEEmoji%E3%81%AE%E4%B8%80%E8%A6%A7
+ - https://x0213.org/joyo-kanji-code/
  - https://orange-factory.com/dnf/utf-8.html
 
 ## Contact

@@ -15,6 +15,10 @@ Font set generated from BIZ UDPGothic (https://fonts.google.com/specimen/BIZ+UDP
 
 ## Setup
 ```bash
+git clone https://github.com/TKB1984/pebble-japanese-custom-font
+cd pebble-japanese-custom-font
+python3 -m venv pebble-font
+source pebble-font/bin/activate
 pip install -r requirements.txt
 ```
 

@@ -4,7 +4,7 @@ cd "$(dirname "$0")"
 
 if [ -z "${1:-}" ]; then
   echo "Usage: $0 <FontName>"
-  echo "Example: $0 NotoSansJP.ttf"
+  echo "Example: $0 BizEmoji.ttf"
   exit 1
 fi
 

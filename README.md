@@ -13,8 +13,12 @@ Font set generated from BIZ UDPGothic (https://fonts.google.com/specimen/BIZ+UDP
 - `custom_fonts/`: Custom font files.
 - `pbl/`: Generated language pack files.
 
-## Codepoint Generation
+## Setup
+```bash
+pip install -r requirements.txt
+```
 
+## Codepoint Generation
 This project now uses a modular approach to generate `codepoints.json`. The scripts are located in the `cps/` directory.
 
 ### 1. Generate Base Codepoints

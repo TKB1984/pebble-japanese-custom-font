@@ -3,7 +3,6 @@ import json
 import os
 
 UTF8_RANGES_HEX = [
-    ("0x20", "0x7F"), # 半角英数字
     ("0xE291A0", "0xE293BF"), # 丸文字・記号
     ("0xE38080", "0xE380BF"), # 記号及び句読点
     ("0xE38180", "0xE383BF"), # 全角ひらがな・カタカナ
